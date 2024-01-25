@@ -2,23 +2,36 @@
 title: Home
 layout: home
 ---
-Mixpanel is a business analytics tool that focuses on helping businesses understand user behavior and make data-driven decisions. Mixpanel integration refers to the process of connecting Mixpanel with other software applications or platforms to exchange data and enhance the analytical capabilities of the integrated systems.
+# Welcome to the QubeHealth Knowledge Base
 
-Here are some key aspects of Mixpanel integration:
+## Unlocking Collective Wisdom for a Healthier Tomorrow
 
-1. **Data Tracking:** Mixpanel helps businesses track user interactions and events within their applications or websites. Integration involves setting up tracking codes or SDKs (Software Development Kits) to capture relevant data points, such as user actions, clicks, and conversions.
+Greetings, QubeHealth Team!
 
-2. **Event Tracking:** Events are specific user interactions within an application or website that businesses want to analyze. Integration allows businesses to define and track custom events, helping them understand how users engage with their product.
+Welcome to our internal knowledge base—a hub for the collective wisdom, insights, and expertise of the incredible minds that drive QubeHealth. Here, we come together to share, learn, and empower one another on our mission to revolutionize health and well-being.
 
-3. **User Analytics:** Mixpanel integration enables businesses to analyze user behavior, such as user demographics, retention rates, and the paths users take within an application. This information can be crucial for making informed decisions about product development, marketing strategies, and user experience improvements.
+### About the QubeHealth Knowledge Base
 
-4. **A/B Testing:** A/B testing involves comparing two versions of a web page or app to determine which one performs better. Mixpanel integration allows businesses to set up and analyze A/B tests to optimize user experience and achieve better conversion rates.
+This knowledge base is a collaborative effort, made by QubeHealth employees for QubeHealth employees. It's a treasure trove of articles, guides, and valuable contributions from each of you, reflecting the diversity and depth of our shared knowledge.
 
-5. **User Segmentation:** Integration with Mixpanel enables businesses to segment their user base based on various criteria, such as geographic location, device type, or user behavior. This segmentation helps businesses target specific user groups with personalized marketing messages or product updates.
+### Navigating Your Knowledge Journey
 
-6. **Retention Analysis:** Mixpanel allows businesses to analyze user retention over time. By integrating Mixpanel with their systems, businesses can gain insights into how well they retain users and identify factors that contribute to user churn.
+- **Browse Articles:** Dive into a wealth of articles covering a wide range of topics. Whether it's the latest advancements in health tech, best practices for employee wellness, or personal anecdotes, you'll find it here.
+  
+- **Contribute Your Expertise:** Have a unique perspective, a helpful tip, or a lesson learned? Contribute your own articles to enrich the collective knowledge of our team.
 
-7. **Integration with Other Tools:** Mixpanel can be integrated with other analytics tools, customer relationship management (CRM) systems, and marketing automation platforms. This integration helps create a unified data ecosystem, allowing businesses to leverage data from multiple sources for comprehensive insights.
+- **Search and Discover:** Use our powerful search feature to find exactly what you need. The knowledge base is here to support your curiosity and ensure you have the resources to excel in your role.
 
-To integrate Mixpanel, developers typically follow the integration documentation provided by Mixpanel, which includes instructions on setting up tracking codes, configuring events, and accessing analytics data. The goal is to seamlessly incorporate Mixpanel into existing workflows to extract valuable insights for business growth and improvement.
+### Connect and Collaborate
 
+This platform is not just about articles; it's about fostering connections. Feel free to leave comments, ask questions, and engage with your fellow QubeHealth colleagues. Let's build a culture of collaboration where knowledge flows freely.
+
+### Getting Started
+
+New to the knowledge base? Start by exploring the featured articles, or use the search bar to find information on a specific topic. Don't forget to check out the "Contribute" section to learn how you can add your voice to this growing repository of insights.
+
+Thank you for being a part of the QubeHealth family. Together, we're creating a healthier and more informed workplace.
+
+[Explore Articles] [Contribute Your Wisdom] [Get Started]
+
+---
