@@ -3,6 +3,9 @@ title: Mixpanel
 layout: home
 ---
 # Mixpanel
+--- 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/PbKnQ777vuk?si=5fdhbDh9OSgzO4fn)](https://youtu.be/PbKnQ777vuk?si=5fdhbDh9OSgzO4fn)
+
 Mixpanel is a business analytics tool that focuses on helping businesses understand user behavior and make data-driven decisions. Mixpanel integration refers to the process of connecting Mixpanel with other software applications or platforms to exchange data and enhance the analytical capabilities of the integrated systems.
 
 Here are some key aspects of Mixpanel integration:
@@ -24,4 +27,41 @@ Here are some key aspects of Mixpanel integration:
 To integrate Mixpanel, developers typically follow the integration documentation provided by Mixpanel, which includes instructions on setting up tracking codes, configuring events, and accessing analytics data. 
 
 The goal is to seamlessly incorporate Mixpanel into existing workflows to extract valuable insights for business growth and improvement.
+
+Analysis Reports:
+Insights - Explore your data  by segmenting and filtering events and user counts.
+
+Funnels:
+Understand the conversion and drop-off of critical sequences by measuring user progress at each step
+
+Flows:
+Analyze how users move through your product by exploring paths between any actions
+
+Retention:
+Assess stickiness of your product by measuring how much users come back over time
+
+Tools:
+1. **Dashboards** -
+Properties help you segment your data
+![alt text](./images/mixpanel.png)
+
+2. **Data Model**
+Mixpanel is event centric and optimized for very large sets of data.
+Events can contain any number of custom dimension or properties.
+
+3. **Insights**
+This is the query builder for generating charts based on aggregate and unique functions on a column.
+![alt text](./images/mixpanel2.png)
+
+4. **Charts**
+
+5. **Segmentation**
+
+6. **Funnels**
+![alt text](./images/mixpanel3.png)
+
+7. **Flows**
+
+8. **Retention**
+
 ---
