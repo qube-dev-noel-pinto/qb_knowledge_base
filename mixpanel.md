@@ -28,19 +28,24 @@ To integrate Mixpanel, developers typically follow the integration documentation
 
 The goal is to seamlessly incorporate Mixpanel into existing workflows to extract valuable insights for business growth and improvement.
 
-Analysis Reports:
-Insights - Explore your data  by segmenting and filtering events and user counts.
+--
 
-Funnels:
+## Analysis Reports:
+**Insights:**
+Explore your data  by segmenting and filtering events and user counts.
+
+**Funnels:**
 Understand the conversion and drop-off of critical sequences by measuring user progress at each step
 
-Flows:
+**Flows:**
 Analyze how users move through your product by exploring paths between any actions
 
-Retention:
+**Retention:**
 Assess stickiness of your product by measuring how much users come back over time
 
-Tools:
+--
+
+## Tools:
 1. **Dashboards** -
 Properties help you segment your data
 ![alt text](./images/mixpanel.png)
