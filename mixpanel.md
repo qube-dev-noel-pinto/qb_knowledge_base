@@ -73,5 +73,6 @@ This is the query builder for generating charts based on aggregate and unique fu
 ![alt text](./images/mixpanel/mixpanel7.png)
 
 8. **Retention**
+![alt text](./images/mixpanel/mixpanel8.png)
 
 ---
