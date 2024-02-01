@@ -26,24 +26,24 @@ Here are some key aspects of Mixpanel integration:
 
 To integrate Mixpanel, developers typically follow the integration documentation provided by Mixpanel, which includes instructions on setting up tracking codes, configuring events, and accessing analytics data. 
 
-The goal is to seamlessly incorporate Mixpanel into existing workflows to extract valuable insights for business growth and improvement.
+> The goal is to seamlessly incorporate Mixpanel into existing workflows to extract valuable insights for business growth and improvement.
 
---
+---
 
 ## Analysis Reports:
-**Insights:**
+- **Insights:**
 Explore your data  by segmenting and filtering events and user counts.
 
-**Funnels:**
+- **Funnels:**
 Understand the conversion and drop-off of critical sequences by measuring user progress at each step
 
-**Flows:**
+- **Flows:**
 Analyze how users move through your product by exploring paths between any actions
 
-**Retention:**
+- **Retention:**
 Assess stickiness of your product by measuring how much users come back over time
 
---
+---
 
 ## Tools:
 1. **Dashboards** -
@@ -75,4 +75,4 @@ This is the query builder for generating charts based on aggregate and unique fu
 8. **Retention**
 ![alt text](./images/mixpanel/mixpanel8.png)
 
----
+----
