@@ -48,22 +48,24 @@ Assess stickiness of your product by measuring how much users come back over tim
 ## Tools:
 1. **Dashboards** -
 Properties help you segment your data
-![alt text](./images/mixpanel.png)
+![alt text](./images/mixpanel/mixpanel.png)
 
 2. **Data Model**
 Mixpanel is event centric and optimized for very large sets of data.
 Events can contain any number of custom dimension or properties.
+![alt text](./images/mixpanel/mixpanel4.png)
 
 3. **Insights**
 This is the query builder for generating charts based on aggregate and unique functions on a column.
-![alt text](./images/mixpanel2.png)
+![alt text](./images/mixpanel/mixpanel2.png)
 
 4. **Charts**
+![alt text](./images/mixpanel/mixpanel5.png)
 
 5. **Segmentation**
 
 6. **Funnels**
-![alt text](./images/mixpanel3.png)
+![alt text](./images/mixpanel/mixpanel3.png)
 
 7. **Flows**
 
