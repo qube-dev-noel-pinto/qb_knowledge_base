@@ -1,6 +1,7 @@
 ---
 title: Mixpanel
 layout: home
+nav_order: 2
 ---
 # Mixpanel
 --- 
