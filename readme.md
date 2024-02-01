@@ -5,5 +5,5 @@ How to run the server:
 2. Install Jekyll
 3. Run the code in the terminal:  
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental
 ```

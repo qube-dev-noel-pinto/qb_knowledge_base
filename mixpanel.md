@@ -1,6 +1,7 @@
 ---
 title: Mixpanel
 layout: home
+favicon_ico: ./favicon.ico
 nav_order: 2
 ---
 # Mixpanel
