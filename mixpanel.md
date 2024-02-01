@@ -63,11 +63,14 @@ This is the query builder for generating charts based on aggregate and unique fu
 ![alt text](./images/mixpanel/mixpanel5.png)
 
 5. **Segmentation**
+![alt text](./images/mixpanel/mixpanel6.png)
+
 
 6. **Funnels**
 ![alt text](./images/mixpanel/mixpanel3.png)
 
 7. **Flows**
+![alt text](./images/mixpanel/mixpanel7.png)
 
 8. **Retention**
 
