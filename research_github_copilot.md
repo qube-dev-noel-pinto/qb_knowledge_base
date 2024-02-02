@@ -49,11 +49,10 @@ nav_order: 3
    - GitHub Copilot: Directly accessible within code editors.
    - CodeGPT: Accessed through API calls, suitable for custom applications.
 
+## Reviews
+![Customer Review on Copilot](./images/copilot/reviewscopilot.png)
+
 ## GitHub Copilot Plans and Pricing:
-- **Free Trial:** 10 days.
-- **Basic:** $9.99 Monthly.
-- **Standard:** $19.99 Monthly.
-- **Gold:** $49.99 Monthly.
 - **Platforms Supported:** Windows, Mac, Linux.
 - **Integrations:** GitHub, Visual Studio Code, Go, Cursor, IntelliSense, JSON.
 - **Supports Code Completion.**
@@ -65,8 +64,12 @@ nav_order: 3
 1. **TabNine:**
    - Code Completion, Integrations, AI Model.
 
-2. **Kite:**
-   - Code Suggestions, Integration, Documentation Assistance.
+2. **Blackbox AI**
+   - Supports Code Completion,  Large Language Models
 
 ## Conclusion:
 GitHub Copilot is a powerful tool for code assistance, enhancing productivity and code quality. Its contextual understanding and direct integration into code editors set it apart. While CodeGPT is versatile, it lacks the specialized focus on coding assistance. Users can choose plans based on their needs, and alternatives like TabNine and Kite offer additional options in the AI-powered code completion space.
+
+
+## References
+[GitHub Copilot Pricing](https://github.com/github-copilot/signup) <br>
