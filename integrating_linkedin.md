@@ -1,5 +1,5 @@
 ---
-title: Alternatives to Hypertest
+title: Integrating LinkedIn
 layout: home
 nav_order: 5
 ---
