@@ -3,7 +3,7 @@ title: Integrating LinkedIn with Flutter
 layout: home
 nav_order: 5
 ---
-# Integrating LinkedIn
+# Integrating LinkedIn with Flutter
 ---
 <img  src='https://miro.medium.com/v2/resize:fit:1024/1*_hANwgEvbAO33QZQidtG9w.jpeg'>
 
