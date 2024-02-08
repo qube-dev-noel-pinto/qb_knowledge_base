@@ -1,5 +1,5 @@
 ---
-title: Integrating LinkedIn
+title: Integrating LinkedIn with Flutter
 layout: home
 nav_order: 5
 ---
