@@ -23,7 +23,7 @@ First, we need to convert the PDF pages into images to process them effectively.
 ```python
 from pdf2image import convert_from_path
 
-pdf_path = 'path/to/your/pdf_file.pdf'
+pdf_path = '.\pdfs\OG-24-1919-8403-00000181 BC.pdf'
 images = convert_from_path(pdf_path)
 ```
 
