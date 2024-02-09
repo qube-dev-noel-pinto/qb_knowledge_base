@@ -158,13 +158,14 @@ Code for the Flutter App is as follows:
 }
 
 <br>
-The output screenshots can be found below:
+<br>
+**Output:**
 
-[Output screenshots link](https://drive.google.com/drive/folders/13Bjk_ToA_R1m_zAqlez9MnczMkIG_T6d?usp=sharing)
+<img src="./images/linkedin_flutter/linkedinflutter1.jpeg" style="width: 350px">
+<img src="./images/linkedin_flutter/linkedinflutter2.jpeg" style="width: 350px">
 
 
-
-
+<br>
 
 ## 2. Webscraping using Python and Selenium
 ---
@@ -175,6 +176,7 @@ The output screenshots can be found below:
     - BeautifulSoup (bs4)
     - parsel
     - selenium
+    
 2. Use the python code as follows:
 
     <pre>
