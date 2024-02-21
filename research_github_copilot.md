@@ -1,7 +1,7 @@
 ---
 title: GitHub Copilot Research
 layout: home
-nav_order: 3
+nav_order: 4
 ---
 # GitHub Copilot Research Summary
 ---

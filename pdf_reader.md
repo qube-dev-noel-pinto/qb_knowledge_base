@@ -1,7 +1,7 @@
 ---
 title: PDF Reader with Python and Google's AI
 layout: home
-nav_order: 6
+nav_order: 7
 ---
 # PDF Reader with Python and Google's AI
 ---
